@@ -1,5 +1,5 @@
 export default {
-  title: 'HTML/Paragraph'
+  title: 'HTML/TextContent/Paragraph'
 };
 
 export const paragraph = () => '<p>Paragraph</p>';
