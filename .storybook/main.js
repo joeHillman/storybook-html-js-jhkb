@@ -1,4 +1,5 @@
 /** @type { import('@storybook/html-webpack5').StorybookConfig } */
+
 const config = {
   stories: [
     "../stories/**/*.mdx",
