@@ -10,7 +10,9 @@ export const objects = () => {
     <code>console.log(typeof Object) // returns only a value of object</code>
     <code>let myObject = {}; let mySecondObject = {} // these object literals create new and separate objects</code>
     <code>let myObject = []; let mySecondObject = [] // these array literals create new and separate arrays</code>
-    <p></p>
+    <p>Objects have properties and are accessed either bracket or dot notation. Properties also use the same wire analogy as variables.<br/>
+      <code>let myObject = [one: 1]; myObject.one || myObject['one'] // dot or bracket notation</code>
+    </p>
   </div>`
 }
 
